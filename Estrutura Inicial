@@ -1,0 +1,26 @@
+abracadabra_kids/
+
+├── lib/
+│   ├── main.dart
+│   ├── app.dart
+│   │
+│   ├── core/
+│   │   ├── theme/
+│   │   │   └── app_theme.dart
+│   │   │
+│   │   └── routes/
+│   │       └── app_routes.dart
+│   │
+│   ├── screens/
+│   │   ├── splash_screen.dart
+│   │   ├── login_screen.dart
+│   │   └── dashboard_screen.dart
+│   │
+│   └── widgets/
+│       └── custom_button.dart
+│
+├── test/
+│
+├── pubspec.yaml
+│
+└── firebase_options.dart
